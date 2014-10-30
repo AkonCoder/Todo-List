@@ -23,6 +23,6 @@ Todo-List
 
 + ♪Git♪ git继续深入学习，尝试解决更多的问题，挑战一下小胡子的未完待续部分..；
 
-+ ♪Node♪ Node模块部分仔细学习，将Node进行下去;
++ ♪Node♪ 尝试分析Node模块实现部分，将Node进行下去，简单浏览下seajs的概况，做好持续深入的准备;
 
 + ♪keyword-1♪ jQuery源码分析getting started。
