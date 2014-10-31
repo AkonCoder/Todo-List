@@ -35,6 +35,7 @@ Resources:
 Resources：
 > 1. <a href="http://www.cnblogs.com/skylar/p/4065455.html">js中的三个模块规范学习笔记</a>
 > 2. Git进阶《Pro Git》
+> 3. <a href="http://rawgithub.com/zhangmengxue/CollectDemo/master/%E6%A8%A1%E6%80%81%E6%A1%86.html">模态框Demo</a>
 
 ◤Review：
 + 1.列表列的不好，任务罗列太多太广泛了，学着一步一步切实来；
