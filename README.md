@@ -33,8 +33,8 @@ Resources:
 | ♪keyword♪ | jQuery源码 | 10% |
 
 Resources：
->1.<a href="http://www.cnblogs.com/skylar/p/4065455.html">js中的三个模块规范学习笔记</a>
->2.Git进阶《Pro Git》
+> 1.<a href="http://www.cnblogs.com/skylar/p/4065455.html">js中的三个模块规范学习笔记</a>
+> 2.Git进阶《Pro Git》
 
 ◤Review：
 + 1.列表列的不好，任务罗列太多太广泛了，学着一步一步切实来；
