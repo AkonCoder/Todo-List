@@ -16,7 +16,7 @@ Resources:
 > 2. <a href="https://cnodejs.org/">{社区在这里}</a>  
 > 3. <a href="http://higrid.net/c-art-markdown_syntax.htm">{markdown语法}</a> 
 
-◤Target  Clear◢
+◤Review：
 + 1.常用git指令get完毕，操作ok，小胡子写的很好，看懂了他的资料，别的基本无障碍；
 + 2.今天准备学习Node的模块部分，看到了CommonJS和AMD等规范，明天仔细学习下规范，然后理解下Node的模块；
 + 3.markdown很易学，但还未体会到其优势，待感受；
@@ -28,7 +28,27 @@ Resources:
 
 | **Tag** | **Todo** | **Done(precent)** |
 |---------|---------|--------------------|
-| ♪Git♪   | git继续深入学习 | ..% |
-| ♪Node♪  | Node模块,规范 | ..% |
-| ♪keyword-1♪ | jQuery源码 | ..% |
+| ♪Git♪   | git继续深入学习 | 15% |
+| ♪Node♪  | Node模块,规范 | 75% |
+| ♪keyword♪ | jQuery源码 | 10% |
+
+Resources：
+>1.<a href="http://www.cnblogs.com/skylar/p/4065455.html">js中的三个模块规范学习笔记</a>
+>2.Git进阶《Pro Git》
+
+◤Review：
++ 1.列表列的不好，任务罗列太多太广泛了，学着一步一步切实来；
++ 2.书，是一直要读的；
++ 3.代码没改完..
++ 4.不管怎样，坚持下去，会越来与合理的...
+
+------------------------------------------------------------------------------------------------------------------------------
+
+####Day 3(1031):
+
+| **Tag** | **Todo** | **Done(precent)** |
+|---------|---------|--------------------|
+| ♪Git♪   | git分支 | ..% |
+| ♪keyword♪ | jQuery源码 | ..% |
+| ♪Node♪  | 持续读书 | just keep it |
 
