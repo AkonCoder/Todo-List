@@ -21,7 +21,7 @@ Todo-List
 
 Resources:
 > 1. <a href="http://www.cnblogs.com/hustskyking/p/git-improve.html#3053686">{小胡子哥的git参考资料}</a>
-> 2. <a href="https://cnodejs.org/">{社区在这里}</a>  
+> 2. <a href="https://cnodejs.org/">{Node社区}</a>  
 > 3. <a href="http://higrid.net/c-art-markdown_syntax.htm">{markdown语法}</a> 
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -64,9 +64,10 @@ Resources：
 
 Resources：
 > 1. <a href="http://v.163.com/movie/2013/9/N/Q/M97G1DNUE_M97G1HRNQ.html">成功的钥匙？毅力</a>
-> 2. <a href="http://www.web-tinker.com/">懂得坚持，有内容的技术博（次碳酸钴）</a>
-> 3. <a href="http://www.zhangxinxu.com/php/">张鑫旭大神的博客也是值得持续学习的</a>
-> 4. <a href="http://nodeschool.io/#workshoppers">学习node的好地方->Node School</a>
+> 2. <a href="http://www.ruanyifeng.com/blog/2012/07/git.html">Git分支</a>
+> 3. <a href="http://www.ruanyifeng.com/blog/2014/06/git_remote.html">Git远程操作详解</a>
+> 4. <a href="http://www.ruanyifeng.com/blog/2012/08/how_to_read_diff.html">读懂diff</a>
+> 5. <a href="http://nodeschool.io/#workshoppers">学习node的好地方->Node School</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -77,3 +78,7 @@ Resources：
 | ♪keyword♪ | jQuery源码 | ..% |
 | ♪css♪   | css深入进阶 | keep it |
 | ♪Node♪  | 持续读书 | just keep it |
+
+Resources：
+> 1. <a href="http://www.web-tinker.com/">懂得坚持，有内容的技术博（次碳酸钴）</a>
+> 2. <a href="http://www.zhangxinxu.com/php/">张鑫旭大神的博客也是值得持续学习的</a>
