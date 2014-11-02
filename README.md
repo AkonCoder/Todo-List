@@ -75,10 +75,31 @@ Resources：
 
 | **Tag** | **Todo** | **Done(precent)** |
 |---------|---------|--------------------|
-| ♪keyword♪ | jQuery源码 | ..% |
+| ♪keyword♪ | jQuery深入/jQuery源码 | 11%(long way to go) |
 | ♪css♪   | css深入进阶 | keep it |
 | ♪Node♪  | 持续读书 | just keep it |
+
+◤Review：
++ 1. 读书进度：Node模块的实现，npm的各种；
++ 2. css是个容易被忽略的东西，总以为会了，其实真的还很嫩..不要好高骛远，遇到问题仔细研究，今天读了《精通css》，持续读吧~
++ 3. 最近简直痴迷上了github，各种技能get，简直是个宝地，希望我能更好的利用它；
++ 4. 能够时刻总结并意识到自己的不足还是很幸运的，尽我最大的努力，从明天开始每天写个demo，努力提升自己的编码能力；
+
 
 Resources：
 > 1. <a href="http://www.web-tinker.com/">懂得坚持，有内容的技术博（次碳酸钴）</a>
 > 2. <a href="http://www.zhangxinxu.com/php/">张鑫旭大神的博客也是值得持续学习的</a>
+> 3. <a href="http://www.yangzhiping.com/tech/github.html">如何高效的利用github</a>
+
+----------------------------------------------------------------------------------------------------------------------------
+
+####Day 5(1102):
+
+| **Tag** | **Todo** | **Done(precent)** |
+|---------|---------|--------------------|
+| ♪keyword♪ | jQuery深入/jQuery源码 | ..%(long way to go) |
+| ♪demo♪   | mousetimeCounter  | ..% |
+| ♪css♪   | css深入进阶 | keep it |
+| ♪Node♪  | 持续读书 | just keep it |
+
+
