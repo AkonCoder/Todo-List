@@ -110,4 +110,26 @@ Resources：
 Resources：
 > 1. <a href="http://coderlmn.github.io/code-standards/">前端代码规范及最佳实验</a>
 
+-----------------------------------------------------------------------------------------------------------------------------
 
+####Day 6-7(1103-1104):
+
+| **Tag** | **Todo** | **Done(precent)** |
+|---------|---------|--------------------|
+| ♪keyword♪ | jQuery深入/jQuery源码 | 12%(long way to go) |
+| ♪demo♪   | mousetimeCounter优化  | 100% |
+| ♪css♪   | css深入进阶 | keep it |
+| ♪Node♪  | 持续读书 | just keep it |
+
+◤Review：
++ 1. 继续读书，写代码时多思考一下；
++ 2. 持续写原生js的demo；
++ 3. jquery真的要仔细看待起来，从各个api到源码；
+
+Resources：
+> 1. <a href="http://www.cnblogs.com/rubylouvre/archive/2009/07/24/1529640.html">document.getElementsByClassName的理想实现</a>
+> 2. <a href="http://www.cnblogs.com/rubylouvre/archive/2009/07/24/1530020.html">事件的一些兼容性问题处理</a>
+> 3. <a href="https://rawgithub.com/zhangmengxue/Practice/master/%E5%8C%BA%E5%9D%97%E5%81%9C%E7%95%99%E8%AE%A1%E6%95%B0%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%9E%E7%8E%B0.html">跨浏览器的区块停留计时demo</a>
+> 4. <a href="http://www.cnblogs.com/skylar/p/4074433.html">1104学习笔记</a>
+
+-----------------------------------------------------------------------------------------------------------------------------
