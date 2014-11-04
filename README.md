@@ -97,9 +97,17 @@ Resources：
 
 | **Tag** | **Todo** | **Done(precent)** |
 |---------|---------|--------------------|
-| ♪keyword♪ | jQuery深入/jQuery源码 | ..%(long way to go) |
-| ♪demo♪   | mousetimeCounter  | ..% |
+| ♪keyword♪ | jQuery深入/jQuery源码 | 12%(long way to go) |
+| ♪demo♪   | mousetimeCounter  | 100% |
 | ♪css♪   | css深入进阶 | keep it |
 | ♪Node♪  | 持续读书 | just keep it |
+
+◤Review：
++ 1. 书是真的要读的，基础搞起来，这个不能忘，时刻提醒自己；
++ 2. 写demo，尤其是原生js的demo,持续写；
++ 3. 框架很多，先问问自己jQuery真的没问题了么？
+
+Resources：
+> 1. <a href="http://coderlmn.github.io/code-standards/">前端代码规范及最佳实验</a>
 
 
