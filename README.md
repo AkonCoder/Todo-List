@@ -133,3 +133,20 @@ Resources：
 > 4. <a href="http://www.cnblogs.com/skylar/p/4074433.html">1104学习笔记</a>
 
 -----------------------------------------------------------------------------------------------------------------------------
+
+
+####Day 8(1105):
+
+| **Tag** | **Todo** | **Done(precent)** |
+|---------|---------|--------------------|
+| ♪demo♪   | todolist(demo)  | ..% |
+| ♪keyword♪ | jQuery深入/jQuery源码 | ..%(long way to go) |
+| ♪css♪   | css深入进阶 | keep it |
+| ♪Node♪  | 持续读书 | just keep it |
+
+
+
+Resources：
+> 1. <a href="http://www.cnblogs.com/sharpxiajun/p/4072396.html">js无阻塞加载</a>
+> 2. <a href="https://github.com/lifesinger/lifesinger.github.com/issues/184">web研发模式演变</a>
+
