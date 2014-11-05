@@ -21,9 +21,9 @@ Todo-List
 
 
 Resources:
-> 1. <a href="http://www.cnblogs.com/hustskyking/p/git-improve.html#3053686">{小胡子哥的git参考资料}</a>
-> 2. <a href="https://cnodejs.org/">{Node社区}</a>  
-> 3. <a href="http://higrid.net/c-art-markdown_syntax.htm">{markdown语法}</a> 
+> 1. [小胡子哥的git参考资料](http://www.cnblogs.com/hustskyking/p/git-improve.html#3053686)
+> 2. [Node社区](https://cnodejs.org/) 
+> 3. [markdown语法](http://higrid.net/c-art-markdown_syntax.htm) 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,9 +43,9 @@ Resources:
 + 4.不管怎样，坚持下去，会越来与合理的...
 
 Resources：
-> 1. <a href="http://www.cnblogs.com/skylar/p/4065455.html">js中的三个模块规范学习笔记</a>
+> 1. [js中的三个模块规范学习笔记](http://www.cnblogs.com/skylar/p/4065455.html)
 > 2. Git进阶《Pro Git》
-> 3. <a href="http://rawgithub.com/zhangmengxue/CollectDemo/master/%E6%A8%A1%E6%80%81%E6%A1%86.html">模态框Demo</a>
+> 3. [模态框Demo](http://rawgithub.com/zhangmengxue/CollectDemo/master/%E6%A8%A1%E6%80%81%E6%A1%86.html)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -64,11 +64,11 @@ Resources：
 + 4. 小胡子推荐了非常值得深入学习的博客，hold on learning..
 
 Resources：
-> 1. <a href="http://v.163.com/movie/2013/9/N/Q/M97G1DNUE_M97G1HRNQ.html">成功的钥匙？毅力</a>
-> 2. <a href="http://www.ruanyifeng.com/blog/2012/07/git.html">Git分支</a>
-> 3. <a href="http://www.ruanyifeng.com/blog/2014/06/git_remote.html">Git远程操作详解</a>
-> 4. <a href="http://www.ruanyifeng.com/blog/2012/08/how_to_read_diff.html">读懂diff</a>
-> 5. <a href="http://nodeschool.io/#workshoppers">学习node的好地方->Node School</a>
+> 1. [成功的钥匙？毅力](http://v.163.com/movie/2013/9/N/Q/M97G1DNUE_M97G1HRNQ.html)
+> 2. [Git分支](http://www.ruanyifeng.com/blog/2012/07/git.html)
+> 3. [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+> 4. [读懂diff](http://www.ruanyifeng.com/blog/2012/08/how_to_read_diff.html)
+> 5. [学习node的好地方->Node School](http://nodeschool.io/#workshoppers)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -88,9 +88,9 @@ Resources：
 
 
 Resources：
-> 1. <a href="http://www.web-tinker.com/">懂得坚持，有内容的技术博（次碳酸钴）</a>
-> 2. <a href="http://www.zhangxinxu.com/php/">张鑫旭大神的博客也是值得持续学习的</a>
-> 3. <a href="http://www.yangzhiping.com/tech/github.html">如何高效的利用github</a>
+> 1. [懂得坚持，有内容的技术博（次碳酸钴）](http://www.web-tinker.com/)
+> 2. [张鑫旭的博客也是值得持续学习的](http://www.zhangxinxu.com/php/)
+> 3. [如何高效的利用github](http://www.yangzhiping.com/tech/github.html)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ Resources：
 + 3. 框架很多，先问问自己jQuery真的没问题了么？
 
 Resources：
-> 1. <a href="http://coderlmn.github.io/code-standards/">前端代码规范及最佳实验</a>
+> 1. [前端代码规范及最佳实验](http://coderlmn.github.io/code-standards/)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -128,10 +128,10 @@ Resources：
 + 3. jquery真的要仔细看待起来，从各个api到源码；
 
 Resources：
-> 1. <a href="http://www.cnblogs.com/rubylouvre/archive/2009/07/24/1529640.html">document.getElementsByClassName的理想实现</a>
-> 2. <a href="http://www.cnblogs.com/rubylouvre/archive/2009/07/24/1530020.html">事件的一些兼容性问题处理</a>
-> 3. <a href="https://rawgithub.com/zhangmengxue/Practice/master/%E5%8C%BA%E5%9D%97%E5%81%9C%E7%95%99%E8%AE%A1%E6%95%B0%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%9E%E7%8E%B0.html">跨浏览器的区块停留计时demo</a>
-> 4. <a href="http://www.cnblogs.com/skylar/p/4074433.html">1104学习笔记</a>
+> 1. [document.getElementsByClassName的理想实现](http://www.cnblogs.com/rubylouvre/archive/2009/07/24/1529640.html)
+> 2. [事件的一些兼容性问题处理](http://www.cnblogs.com/rubylouvre/archive/2009/07/24/1530020.html)
+> 3. [跨浏览器的区块停留计时demo](https://rawgithub.com/zhangmengxue/Practice/master/%E5%8C%BA%E5%9D%97%E5%81%9C%E7%95%99%E8%AE%A1%E6%95%B0%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%9E%E7%8E%B0.html)
+> 4. [1104学习笔记](http://www.cnblogs.com/skylar/p/4074433.html)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -148,6 +148,6 @@ Resources：
 
 
 Resources：
-> 1. <a href="http://www.cnblogs.com/sharpxiajun/p/4072396.html">js无阻塞加载</a>
-> 2. <a href="https://github.com/lifesinger/lifesinger.github.com/issues/184">web研发模式演变</a>
+> 1. [js无阻塞加载](http://www.cnblogs.com/sharpxiajun/p/4072396.html)
+> 2. [web研发模式演变](https://github.com/lifesinger/lifesinger.github.com/issues/184)
 
