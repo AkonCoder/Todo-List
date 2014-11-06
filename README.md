@@ -157,5 +157,5 @@ Resources：
 > 4. [javascript判断浏览器类型与版本](http://www.cnblogs.com/rubylouvre/archive/2009/10/14/1583362.html)
 > 5. [检测浏览器对事件的支持程度](http://www.cnblogs.com/rubylouvre/archive/2009/12/21/1628095.html)
 > 6. [学习css layout](http://learnlayout.com/position.html)
-> 7. [我的todolist原生js实现demo(chrome)](https://github.com/zhangmengxue/Practice/blob/master/todolist.html)
+> 7. [我的todolist原生js实现demo(chrome)](https://rawgithub.com/zhangmengxue/Practice/master/todolist.html)
 
