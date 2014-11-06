@@ -175,5 +175,6 @@ Resources：
 
 Resources：
 > 1. [一行javascript代码学到的东西（addyOsmani）](http://arqex.com/939/learning-much-javascript-one-line-code)
+> 2. [同一段文本中英文和汉字调用不同的class样式](http://www.w3cfuns.com/thread-5594535-1-1.html)
 
 
