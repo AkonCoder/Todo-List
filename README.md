@@ -153,7 +153,7 @@ Resources：
 Resources：
 > 1. [js无阻塞加载](http://www.cnblogs.com/sharpxiajun/p/4072396.html)
 > 2. [web研发模式演变](https://github.com/lifesinger/lifesinger.github.com/issues/184)
-> 3. [不适用Math.random()实现随机数](http://www.cnblogs.com/rubylouvre/p/3951778.html)
+> 3. [不使用Math.random()实现随机数](http://www.cnblogs.com/rubylouvre/p/3951778.html)
 > 4. [javascript判断浏览器类型与版本](http://www.cnblogs.com/rubylouvre/archive/2009/10/14/1583362.html)
 > 5. [检测浏览器对事件的支持程度](http://www.cnblogs.com/rubylouvre/archive/2009/12/21/1628095.html)
 > 6. [学习css layout](http://learnlayout.com/position.html)
