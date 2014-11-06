@@ -159,3 +159,21 @@ Resources：
 > 6. [学习css layout](http://learnlayout.com/position.html)
 > 7. [我的todolist原生js实现demo(chrome)](https://rawgithub.com/zhangmengxue/Practice/master/todolist.html)
 
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+####Day 9(1106):
+
+| **Tag** | **Todo** | **Done(precent)** |
+|---------|---------|--------------------|
+| ♪demo♪   | js原生实现拖拽(demo)  | ..% |
+| ♪keyword♪ | jQuery深入/jQuery源码 | ..%(long way to go) |
+| ♪css♪   | css深入进阶 | keep it |
+| ♪Node♪  | 持续读书 | just keep it |
+
+
+
+Resources：
+> 1. [一行javascript代码学到的东西（addyOsmani）](http://arqex.com/939/learning-much-javascript-one-line-code)
+
+
