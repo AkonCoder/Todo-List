@@ -140,14 +140,22 @@ Resources：
 
 | **Tag** | **Todo** | **Done(precent)** |
 |---------|---------|--------------------|
-| ♪demo♪   | todolist(demo)  | ..% |
-| ♪keyword♪ | jQuery深入/jQuery源码 | ..%(long way to go) |
+| ♪demo♪   | todolist(demo)  | 65% |
+| ♪keyword♪ | jQuery深入/jQuery源码 | 12%(long way to go) |
 | ♪css♪   | css深入进阶 | keep it |
 | ♪Node♪  | 持续读书 | just keep it |
 
-
+◤Review：
++ 1. 写todolist这个demo的时候，选用的事件是textInput但是没想到FF不支持，在IE问题更多，更不用提了，目前只能兼容谷歌；
++ 2. 不过这也让我重新审视了自己对原生js的掌握，各种浏览器兼容问题的处理，我要进一步加强；
++ 3. 懂得收集资源浏览各种资源真的是件比较好的事情，在各个群里可以看到各种各样的知识，能不断的充实自己呢；
 
 Resources：
 > 1. [js无阻塞加载](http://www.cnblogs.com/sharpxiajun/p/4072396.html)
 > 2. [web研发模式演变](https://github.com/lifesinger/lifesinger.github.com/issues/184)
+> 3. [不适用Math.random()实现随机数](http://www.cnblogs.com/rubylouvre/p/3951778.html)
+> 4. [javascript判断浏览器类型与版本](http://www.cnblogs.com/rubylouvre/archive/2009/10/14/1583362.html)
+> 5. [检测浏览器对事件的支持程度](http://www.cnblogs.com/rubylouvre/archive/2009/12/21/1628095.html)
+> 6. [学习css layout](http://learnlayout.com/position.html)
+> 7. [我的todolist原生js实现demo(chrome)](https://github.com/zhangmengxue/Practice/blob/master/todolist.html)
 
