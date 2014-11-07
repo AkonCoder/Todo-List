@@ -166,15 +166,24 @@ Resources：
 
 | **Tag** | **Todo** | **Done(precent)** |
 |---------|---------|--------------------|
-| ♪demo♪   | js原生实现拖拽(demo)  | ..% |
+| ♪demo♪   | js原生实现拖拽(demo)  | 10% |
 | ♪keyword♪ | jQuery深入/jQuery源码 | ..%(long way to go) |
 | ♪css♪   | css深入进阶 | keep it |
 | ♪Node♪  | 持续读书 | just keep it |
 
-
+◤Review：
++ 1. 学习新东西固然重要，但我也在做各个事情的时候时刻体会着基础的重要性，时刻提醒自己；
++ 2. 后面几天看基础知识，复习旧知识，也看新知识；
++ 3. 悄悄的为某些事准备，既然有机会，还是要努力抓住。
 
 Resources：
 > 1. [一行javascript代码学到的东西（addyOsmani）](http://arqex.com/939/learning-much-javascript-one-line-code)
 > 2. [同一段文本中英文和汉字调用不同的class样式](http://www.w3cfuns.com/thread-5594535-1-1.html)
+> 3. [css基线之道](http://www.qianduan.net/css-baseline-road.html)
+> 4. [css定位机制之普通流](http://swordair.com/css-positioning-schemes-normal-flow/)
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
 
 
