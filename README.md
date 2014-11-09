@@ -184,6 +184,15 @@ Resources：
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+####Day 9-12(1107--1110):
 
++ 这些天我就想做一件事情，回顾梳理自己的知识，看基础！时常的回顾和梳理我觉得是有必要的，应该也会学到很多东西。
 
+Resources：
+> 1. [我所了解的css学习笔记](http://www.cnblogs.com/skylar/p/4084345.html)
+> 2. [CSS 相对|绝对(relative/absolute)定位系列（一）](http://www.zhangxinxu.com/wordpress/2010/12/css-%E7%9B%B8%E5%AF%B9%E7%BB%9D%E5%AF%B9%E5%AE%9A%E4%BD%8D%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%80%EF%BC%89/)
+> 3. [CSS 相对|绝对(relative/absolute)定位系列（二）](http://www.zhangxinxu.com/wordpress/2010/12/css-%E7%9B%B8%E5%AF%B9%E7%BB%9D%E5%AF%B9relativeabsolute%E5%AE%9A%E4%BD%8D%E7%B3%BB%E5%88%97%EF%BC%88%E4%BA%8C%EF%BC%89/)
+> 4. [CSS 相对|绝对(relative/absolute)定位系列（三）](http://www.zhangxinxu.com/wordpress/2011/03/css-%E7%9B%B8%E5%AF%B9%E7%BB%9D%E5%AF%B9relativeabsolute%E5%AE%9A%E4%BD%8D%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%89%EF%BC%89/)
+> 5. [CSS 相对|绝对(relative/absolute)定位系列（四）](http://www.zhangxinxu.com/wordpress/2011/08/css%E7%9B%B8%E5%AF%B9%E5%AE%9A%E4%BD%8Drelative%E7%BB%9D%E5%AF%B9%E5%AE%9A%E4%BD%8Dabsolute%E7%B3%BB%E5%88%97%EF%BC%88%E5%9B%9B%EF%BC%89/)
+> 6. [CSS 相对|绝对(relative/absolute)定位系列（五）](http://www.zhangxinxu.com/wordpress/2011/08/css%E7%9B%B8%E5%AF%B9%E5%AE%9A%E4%BD%8D%E7%BB%9D%E5%AF%B9%E5%AE%9A%E4%BD%8D%E4%BA%94%E4%B9%8Bz-index%E7%AF%87/)
 
