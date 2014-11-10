@@ -196,3 +196,19 @@ Resources：
 > 5. [CSS 相对|绝对(relative/absolute)定位系列（四）](http://www.zhangxinxu.com/wordpress/2011/08/css%E7%9B%B8%E5%AF%B9%E5%AE%9A%E4%BD%8Drelative%E7%BB%9D%E5%AF%B9%E5%AE%9A%E4%BD%8Dabsolute%E7%B3%BB%E5%88%97%EF%BC%88%E5%9B%9B%EF%BC%89/)
 > 6. [CSS 相对|绝对(relative/absolute)定位系列（五）](http://www.zhangxinxu.com/wordpress/2011/08/css%E7%9B%B8%E5%AF%B9%E5%AE%9A%E4%BD%8D%E7%BB%9D%E5%AF%B9%E5%AE%9A%E4%BD%8D%E4%BA%94%E4%B9%8Bz-index%E7%AF%87/)
 
+◤Review：
++ 1. 越学习越体会到学习的重要性，越学习发现越要学习的东西越多，坚持；
++ 2. 收集的各种资料了解的知识点，总翻来看看，也是会体会到不同的东西的；
++ 3. 我觉得喜欢就是什么都想了解，前端之路很长，耐心学！
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+####Day 9(1106):
+
+| **Tag** | **Todo** | **Done(precent)** |
+|---------|---------|--------------------|
+| ♪demo♪   | js原生实现拖拽(demo)  | ..% |
+| ♪css♪   | css深入进阶 | keep it |
+
+Resources:
+> 1. [从登陆框看前端](http://www.cnblogs.com/hustskyking/p/user-exprience-in-login-box.html)
