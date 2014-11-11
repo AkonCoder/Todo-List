@@ -212,3 +212,10 @@ Resources：
 
 Resources:
 > 1. [从登陆框看前端](http://www.cnblogs.com/hustskyking/p/user-exprience-in-login-box.html)
+
+◤Review：
++ 1. 今天看到小胡子在群里简单说了写bug定位的技巧，我赶紧记下来，把工具会用了，后面慢慢就该有经验啦：
++    (1) fiddler/charles
+     (2) DOMInsert/DOMRemove/MoutationObserver
+     (3)debugger代码断点
+     (4)DOM断点和属性监听
