@@ -203,11 +203,11 @@ Resources：
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-####Day 9(1106):
+####Day 13(1111):
 
 | **Tag** | **Todo** | **Done(precent)** |
 |---------|---------|--------------------|
-| ♪demo♪   | js原生实现拖拽(demo)  | ..% |
+| ♪demo♪   | js原生实现拖拽(demo)  | 75% |
 | ♪css♪   | css深入进阶 | keep it |
 
 Resources:
@@ -216,6 +216,36 @@ Resources:
 ◤Review：
 + 1. 今天看到小胡子在群里简单说了写bug定位的技巧，我赶紧记下来，把工具会用了，后面慢慢就该有经验啦：
 +    (1) fiddler/charles
-     (2) DOMInsert/DOMRemove/MoutationObserver
-     (3)debugger代码断点
-     (4)DOM断点和属性监听
++    (2) DOMInsert/DOMRemove/MoutationObserver
++    (3)debugger代码断点
++    (4)DOM断点和属性监听
++ 2. 实现原生可拖拽的时候牵出了一些其他需要学习的点 deep into it；
+
+---------------------------------------------------------------------------------------------------------------------------
+
+####Day 14(1112):
+
+新整理了需要深入学习的关键词列表，需要持续学习，深入：
+
+| **Num** | **Tag** | **Todo** | 
+|---------|---------|---------|
+| ♪.1  |闭包  |我需要做到讲起来条理清晰，头头是道|
+| ♪.2  | get和post的区别 |更加清晰和深入的认识|
+| ♪.3  | http状态码 |分门别类，清楚判断|
+| ♪.4  | http协议中的head trace put等 |认识，了解|
+| ♪.5  | document.referrer |相关的document对象的属性归纳|
+| ♪.6  | 跨域问题（单/双向） |不能一知半解，深入尝试，总结|
+| ♪.7  | 正则 |方法RegExp.$ lastIndex search|
+| ♪.8  | js单线程 |探究|
+| ♪.9  | 类/继承相关 |《javascript设计模式》|
+| ♪.10  | 异步编程相关 |settimeout setInterval 队列|
+| ♪.11  | session/cookie/localStorage |区分，联系，应用|
+| ♪.12  | 反向代理 |先从了解起步|
+| ♪.13  | pageX/clientX等 |清楚的区分|
+| ♪.14  | web通信 |不要满足于知道而已|
+
+
+Resources:
+> 1. [深入理解闭包机制](http://www.cnblogs.com/hustskyking/p/javascript-closure.html)
+> 2. [浅谈http中的get和post的区别](http://www.cnblogs.com/hustskyking/archive/2013/05/05/get-and-post.html)
+> 3. [javascript中的web通信](http://www.cnblogs.com/hustskyking/p/web-communication.html)
