@@ -249,3 +249,17 @@ Resources:
 > 1. [深入理解闭包机制](http://www.cnblogs.com/hustskyking/p/javascript-closure.html)
 > 2. [浅谈http中的get和post的区别](http://www.cnblogs.com/hustskyking/archive/2013/05/05/get-and-post.html)
 > 3. [javascript中的web通信](http://www.cnblogs.com/hustskyking/p/web-communication.html)
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+####Day 15(1113):
+
+| **Tag** | **Todo** | **Done(precent)** |
+|---------|---------|--------------------|
+| ♪demo♪   | js跨域问题实践总结  | ..% |
+| ♪css♪   | css深入进阶 | keep it |
+
+Resources:
+> 1. [js跨域问题总结](http://www.cnblogs.com/rainman/archive/2011/02/20/1959325.html#m1)
+> 2. [javascript中的同源策略](https://developer.mozilla.org/zh-CN/docs/Web/Security/Same-origin_policy)
+> 3. [js中各种跨域问题实践总结笔记一](http://www.cnblogs.com/skylar/p/4094509.html#3063258)
